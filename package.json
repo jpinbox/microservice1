@@ -28,7 +28,7 @@
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
     "qldb": "^3.1.0",
-    "xlsx": "^0.14.1"
+    "xlsx": "^0.17.0"
   },
   "scripts": {
     "lint": "eslint server/server.js",
